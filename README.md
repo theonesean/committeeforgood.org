@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## The Pledge
 
-You can use the [editor on GitHub](https://github.com/theonesean/committeeforgood.org/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[pledge](#pledge)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Membership in the Committee for Good entails taking the following pledge: 
 
-### Markdown
+*As a member of the Allegheny County Democratic Committee, we pledge to support and advance the following policies:*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 1. Healthcare for all, free of charge.
 
-```markdown
-Syntax highlighted code block
+We need a healthcare system that guarantees care for everybody, including reproductive healthcare, regardless of employment or ability to pay. We need to follow the lead of almost every other “first world” country and guarantee healthcare as a right, through a system such as Medicare-For-All.
 
-# Header 1
-## Header 2
-### Header 3
+### 2. $15/hour minimum wage nationwide
 
-- Bulleted
-- List
+Everyone should be getting a living wage. While $15 an hour falls short of the inflation-adjusted $16.06 an hour Dr. Martin Luther King, Jr’s March on Washington called for ($2/hr in 1968), it’s the direction we need. We should also adopt the proposed Obama administration rule to increase the time-and-a-half for overtime pay threshold.
 
-1. Numbered
-2. List
+### 3. Stop right-to-work (for less) and right-to-fire (at-will).
 
-**Bold** and _Italic_ and `Code` text
+We stand against so-called “right to work for less” legislation that attacks unions and encourages freeloading on union-negotiated contracts. In addition, we need to end at-will employment and establish a just-cause standard so employers cannot fire employees on a whim.
 
-[Link](url) and ![Image](src)
-```
+*By affixing my name and information to the following form, I hereby sign on to the Platform of the Committee for Good.*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+a form
 
-### Jekyll Themes
+## What is the Allegheny County Democratic Committee?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theonesean/committeeforgood.org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Also known as "precinct captains", the Allegheny County Democratic Committee is made up of committeepeople, two per precinct (polling place). The two committeepeople, one male, one female, are responsible for the turnout operation and party outreach for the several hundred Democratic voters in each precinct district. 
 
-### Support or Contact
+# Run For Committee
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you're interested in running for committee in your district, there are two steps. Firstly, find your ward and precinct district from [this Our Revolution tool](http://transformtheparty.com/run-your-precinct/). Secondly, fill out this form signing [the pledge](#pledge) and someone from the CfG will reach out to you about the logistics of running.
+
+another form
