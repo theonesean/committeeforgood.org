@@ -22,7 +22,7 @@ We stand against so-called “right to work for less” legislation that attacks
 
 Also known as "precinct captains", the Allegheny County Democratic Committee is made up of committeepeople, two per precinct (polling place). The two committeepeople, one male, one female, are responsible for the turnout operation and party outreach for the several hundred Democratic voters in each precinct district. 
 
-# Run For Committee
+## Run For Committee
 
 If you're interested in running for committee in your district, there are two steps. Firstly, find your ward and precinct district from [this Our Revolution tool](http://transformtheparty.com/run-your-precinct/). Secondly, fill out this form signing [the pledge](#the-pledge) and someone from the CfG will reach out to you about the logistics of running.
 
