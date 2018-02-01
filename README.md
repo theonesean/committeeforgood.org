@@ -18,6 +18,7 @@ We stand against so-called “right to work for less” legislation that attacks
 
 *By affixing my name and information to the following form, I hereby sign on to the Platform of the Committee for Good.*
 
+<div style="width: 500px; margin: auto;">
 <form method="POST" action="https://formspree.io/sean@spb.li">
   <input type="text" name="name" placeholder="Name">
   <input type="email" name="email" placeholder="Email">
@@ -30,6 +31,7 @@ We stand against so-called “right to work for less” legislation that attacks
   <br />
   <button type="submit">Send</button>
 </form>
+</div>
 
 ## What is the Allegheny County Democratic Committee?
 
@@ -39,6 +41,7 @@ Also known as "precinct captains", the Allegheny County Democratic Committee is 
 
 If you're interested in running for committee in your district, there are two steps. Firstly, find your ward and precinct district from [this Our Revolution tool](http://transformtheparty.com/run-your-precinct/). Secondly, fill out this form signing [the pledge](#the-pledge) and someone from the CfG will reach out to you about the logistics of running.
 
+<div style="width: 500px; margin: auto;">
 <form method="POST" action="https://formspree.io/sean@spb.li">
   <input type="text" name="name" placeholder="Name">
   <input type="email" name="email" placeholder="Email">
@@ -51,3 +54,4 @@ If you're interested in running for committee in your district, there are two st
   <br />
   <button type="submit">Send</button>
 </form>
+</div>
