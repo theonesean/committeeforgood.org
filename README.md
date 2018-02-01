@@ -16,7 +16,7 @@ Everyone should be getting a living wage. While $15 an hour falls short of the i
 
 We stand against so-called “right to work for less” legislation that attacks unions and encourages freeloading on union-negotiated contracts. In addition, we need to end at-will employment and establish a just-cause standard so employers cannot fire employees on a whim.
 
-####**You can sign the pledge at [this link](https://docs.google.com/forms/d/e/1FAIpQLSdyQ3nQ2Hus4k5-udNTd1czeycYiQzc5DPRl8dR7vnCmsxcGA/viewform).**
+**You can sign the pledge at [this link](https://docs.google.com/forms/d/e/1FAIpQLSdyQ3nQ2Hus4k5-udNTd1czeycYiQzc5DPRl8dR7vnCmsxcGA/viewform).**
 
 ## What is the Allegheny County Democratic Committee?
 
@@ -26,4 +26,4 @@ Also known as "precinct captains", the Allegheny County Democratic Committee is 
 
 If you're interested in running for committee in your district, there are two steps. Firstly, find your ward and precinct district from [this Our Revolution tool](http://transformtheparty.com/run-your-precinct/). Secondly, fill out this form signing [the pledge](#the-pledge) and someone from the CfG will reach out to you about the logistics of running.
 
-####**Sign up for more information and support the pledge [here](https://docs.google.com/forms/d/e/1FAIpQLSdyQ3nQ2Hus4k5-udNTd1czeycYiQzc5DPRl8dR7vnCmsxcGA/viewform).**
+**Sign up for more information and support the pledge [here](https://docs.google.com/forms/d/e/1FAIpQLSdyQ3nQ2Hus4k5-udNTd1czeycYiQzc5DPRl8dR7vnCmsxcGA/viewform).**
