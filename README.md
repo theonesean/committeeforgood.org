@@ -16,22 +16,7 @@ Everyone should be getting a living wage. While $15 an hour falls short of the i
 
 We stand against so-called “right to work for less” legislation that attacks unions and encourages freeloading on union-negotiated contracts. In addition, we need to end at-will employment and establish a just-cause standard so employers cannot fire employees on a whim.
 
-*By affixing my name and information to the following form, I hereby sign on to the Platform of the Committee for Good.*
-
-<div style="width: 200px;">
-<form method="POST" action="https://formspree.io/sean@spb.li" style="margin-bottom: 0.5em; margin-top: 0.5em;">
-  <input type="text" name="name" placeholder="Name">
-  <input type="email" name="email" placeholder="Email">
-  <input type="text" name="borough" placeholder="Borough/Township">
-  <input type="number" name="ward" placeholder="Ward">
-  <input type="number" name="district" placeholder="Voting District">
-  <textarea name="message" placeholder="Additional comments or information"></textarea>
-  <input type="checkbox" name="member">I am a member of the Allegheny County Democratic Committee.<br />
-  <input type="checkbox" name="pledge">I pledge to uphold the tenets of the pledge of the Committee for Good.<br />
-  <br />
-  <button type="submit">Send</button>
-</form>
-</div>
+####**You can sign the pledge at [this link](https://docs.google.com/forms/d/e/1FAIpQLSdyQ3nQ2Hus4k5-udNTd1czeycYiQzc5DPRl8dR7vnCmsxcGA/viewform).**
 
 ## What is the Allegheny County Democratic Committee?
 
@@ -41,17 +26,4 @@ Also known as "precinct captains", the Allegheny County Democratic Committee is 
 
 If you're interested in running for committee in your district, there are two steps. Firstly, find your ward and precinct district from [this Our Revolution tool](http://transformtheparty.com/run-your-precinct/). Secondly, fill out this form signing [the pledge](#the-pledge) and someone from the CfG will reach out to you about the logistics of running.
 
-<div style="width: 200px;">
-<form method="POST" action="https://formspree.io/sean@spb.li" style="margin-bottom: 0.5em; margin-top: 0.5em;">
-  <input type="text" name="name" placeholder="Name">
-  <input type="email" name="email" placeholder="Email">
-  <input type="text" name="borough" placeholder="Borough/Township">
-  <input type="number" name="ward" placeholder="Ward">
-  <input type="number" name="district" placeholder="Voting District">
-  <textarea name="message" placeholder="Additional comments or information"></textarea>
-  <input type="checkbox" name="running">I am interested in running for the Allegheny County Democratic Committee.<br />
-  <input type="checkbox" name="pledge">I pledge to uphold the tenets of the pledge of the Committee for Good.<br />
-  <br />
-  <button type="submit">Send</button>
-</form>
-</div>
+####**Sign up for more information and support the pledge [here](https://docs.google.com/forms/d/e/1FAIpQLSdyQ3nQ2Hus4k5-udNTd1czeycYiQzc5DPRl8dR7vnCmsxcGA/viewform).**
