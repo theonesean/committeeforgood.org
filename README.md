@@ -18,7 +18,18 @@ We stand against so-called “right to work for less” legislation that attacks
 
 *By affixing my name and information to the following form, I hereby sign on to the Platform of the Committee for Good.*
 
-a form
+<form method="POST" action="https://formspree.io/sean@spb.li">
+  <input type="text" name="name" placeholder="Name">
+  <input type="email" name="email" placeholder="Email">
+  <input type="text" name="borough" placeholder="Borough/Township">
+  <input type="number" name="ward" placeholder="Ward">
+  <input type="number" name="district" placeholder="Voting District">
+  <textarea name="message" placeholder="Additional comments or information"></textarea>
+  <input type="checkbox" name="member">I am a member of the Allegheny County Democratic Committee.<br />
+  <input type="checkbox" name="pledge">I pledge to uphold the tenets of the pledge of the Committee for Good.<br />
+  <br />
+  <button type="submit">Send</button>
+</form>
 
 ## What is the Allegheny County Democratic Committee?
 
@@ -28,4 +39,15 @@ Also known as "precinct captains", the Allegheny County Democratic Committee is 
 
 If you're interested in running for committee in your district, there are two steps. Firstly, find your ward and precinct district from [this Our Revolution tool](http://transformtheparty.com/run-your-precinct/). Secondly, fill out this form signing [the pledge](#the-pledge) and someone from the CfG will reach out to you about the logistics of running.
 
-another form
+<form method="POST" action="https://formspree.io/sean@spb.li">
+  <input type="text" name="name" placeholder="Name">
+  <input type="email" name="email" placeholder="Email">
+  <input type="text" name="borough" placeholder="Borough/Township">
+  <input type="number" name="ward" placeholder="Ward">
+  <input type="number" name="district" placeholder="Voting District">
+  <textarea name="message" placeholder="Additional comments or information"></textarea>
+  <input type="checkbox" name="running">I am interested in running for the Allegheny County Democratic Committee.<br />
+  <input type="checkbox" name="pledge">I pledge to uphold the tenets of the pledge of the Committee for Good.<br />
+  <br />
+  <button type="submit">Send</button>
+</form>
