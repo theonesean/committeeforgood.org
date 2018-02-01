@@ -1,7 +1,5 @@
 ## The Pledge
 
-[pledge](#pledge)
-
 Membership in the Committee for Good entails taking the following pledge: 
 
 *As a member of the Allegheny County Democratic Committee, we pledge to support and advance the following policies:*
@@ -28,6 +26,6 @@ Also known as "precinct captains", the Allegheny County Democratic Committee is 
 
 # Run For Committee
 
-If you're interested in running for committee in your district, there are two steps. Firstly, find your ward and precinct district from [this Our Revolution tool](http://transformtheparty.com/run-your-precinct/). Secondly, fill out this form signing [the pledge](#pledge) and someone from the CfG will reach out to you about the logistics of running.
+If you're interested in running for committee in your district, there are two steps. Firstly, find your ward and precinct district from [this Our Revolution tool](http://transformtheparty.com/run-your-precinct/). Secondly, fill out this form signing [the pledge](#the-pledge) and someone from the CfG will reach out to you about the logistics of running.
 
 another form
